@@ -61,7 +61,7 @@
 ![4_3_1](https://user-images.githubusercontent.com/60978690/153762282-f2156549-0c95-4f29-bee2-76bc3b36aaae.jpg)
 
 Четырёхугольник, 4 предмета, не помещаются
-![4_4_0](https://user-im![8_1_0](https://user-images.githubusercontent.com/60978690/153762348-6beb4b39-ea43-4a44-b5de-4a3364a3418a.jpg)ages.githubusercontent.com/60978690/153762295-4562d950-9999-4694-9dbb-4d1a82d7fe6d.jpg)
+![4_4_0](https://user-images.githubusercontent.com/60978690/153762295-4562d950-9999-4694-9dbb-4d1a82d7fe6d.jpg)
 
 Пятиугольник, 1 предмет, не помещается
 ![5_1_0](https://user-images.githubusercontent.com/60978690/153762304-c6be82af-4112-4194-95a3-30503529c335.jpg)
